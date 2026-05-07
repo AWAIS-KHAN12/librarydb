@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/librarydb/librarydb/src/gui/MainDashboard.java</file>
+            <file>file:/D:/librarydb/librarydb/src/gui/MemberForm.java</file>
+            <file>file:/D:/librarydb/librarydb/src/gui/LendingForm.java</file>
+            <file>file:/D:/librarydb/librarydb/src/db/DBConnection.java</file>
+            <file>file:/D:/librarydb/librarydb/src/models/Book.java</file>
+            <file>file:/D:/librarydb/librarydb/src/models/Member.java</file>
+            <file>file:/D:/librarydb/librarydb/src/models/Lending.java</file>
+            <file>file:/D:/librarydb/librarydb/src/services/BookService.java</file>
+            <file>file:/D:/librarydb/librarydb/src/services/MemberService.java</file>
+            <file>file:/D:/librarydb/librarydb/src/utils/DateUtils.java</file>
+            <file>file:/D:/librarydb/librarydb/src/utils/ValidationUtils.java</file>
+            <file>file:/D:/librarydb/librarydb/src/app/Main.java</file>
+            <file>file:/D:/librarydb/librarydb/src/services/LendingService.java</file>
+            <file>file:/D:/librarydb/librarydb/src/gui/LoginForm.java</file>
+            <file>file:/D:/librarydb/librarydb/src/gui/BookInventoryForm.java</file>
+            <file>file:/D:/librarydb/librarydb/src/utils/ReportGenerator.java</file>
+        </group>
+    </open-files>
+</project-private>
