@@ -30,10 +30,31 @@ A desktop-based Library Management System built in **Java** using **NetBeans IDE
 librarydb/
 ├── src/
 │   ├── LoginForm.java
+│   ├── LoginForm_1.java
 │   ├── MainDashboard.java
+│   ├── MainDashboard_1.java
 │   ├── BookInventoryForm.java
-│   └── LendingForm.java
+│   ├── BookInventoryForm_1.java
+│   ├── BookInventoryForm_2.java
+│   ├── BookInventoryForm_3.java
+│   ├── BookInventoryForm_4.java
+│   ├── BookInventoryForm_5.java
+│   ├── LendingForm.java
+│   ├── LendingForm_1.java
+│   ├── LendingForm_2.java
+│   ├── LendingForm_3.java
+│   ├── LendingForm_4.java
+│   └── LendingForm_BookInventoryRefresher.java
 ├── nbproject/
+│   ├── private/
+│   ├── build-impl.xml
+│   ├── genfiles.properties
+│   ├── project.properties
+│   └── project.xml
+├── LibraryReport.pdf
+├── build.xml
+├── manifest.mf
+├── .gitignore
 └── README.md
 
 ---
